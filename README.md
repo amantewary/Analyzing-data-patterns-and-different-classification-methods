@@ -1,21 +1,5 @@
 # Analyzing data patterns and different classification methods
 
-**Submitted To**
-
-```
-Suhaib Qaiser
-```
-
-**Submitted By**
-
-Aman Tewary (B00782684)
-
-Nikhil Kamath (B00779777)
-
-```
-Submitted On
-July 17, 2018
-```
 
 ## Table Of Content
 
