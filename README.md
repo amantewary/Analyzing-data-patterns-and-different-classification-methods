@@ -1,4 +1,4 @@
-# Analyzing data patterns and different classification methods**
+# Analyzing data patterns and different classification methods
 
 **Submitted To**
 
